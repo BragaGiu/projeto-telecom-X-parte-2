@@ -1,5 +1,5 @@
 # Previsão de Churn de Clientes - Análise de Dados e Modelagem Preditiva
-**Missão:** Desenvolver modelos preditivos capazes de prever quais clientes têm maior chance de cancelar seus serviços.
+**Missão:** Na primeira etapa do projeto, o objetivo foi realizar uma análise exploratória da evasão de clientes na Telecom X. Agora, a missão é desenvolver modelos preditivos capazes de prever quais clientes têm maior chance de cancelar seus serviços.
 
 ## Objetivos do Projeto 
 - Preparar os dados para a modelagem (tratamento, encoding, normalização).  
