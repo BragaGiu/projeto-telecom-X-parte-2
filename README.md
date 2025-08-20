@@ -95,5 +95,8 @@
 
 ---
 
+## 💡 Conclusão
+A análise dos dados e a modelagem preditiva, especialmente com o modelo Random Forest, permitiram identificar os principais gatilhos de Churn, com destaque para o tipo de contrato, forma de pagamento e adesão a serviços adicionais, além do tempo de contrato. As estratégias de retenção propostas buscam atuar proativamente sobre esses fatores, utilizando os insights do modelo para priorizar ações e reter clientes de forma mais eficaz.
+
 ## 📦 Requisitos
 - Python 3.x  
