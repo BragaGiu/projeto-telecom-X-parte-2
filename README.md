@@ -41,8 +41,8 @@
 - Foram avaliadas distribuições de variáveis, correlações entre features e relações com churn.  
 - Identificação de padrões que poderiam influenciar a evasão, como comportamento de compra, uso de serviços e variáveis demográficas.  
 - Visualizações foram usadas para destacar insights iniciais, como concentração de churn em determinados perfis.
-<img width="850" height="547" alt="dispercao1" src="https://github.com/user-attachments/assets/7ddde7cc-755e-44d9-9937-4d0b14ea584e" />
-<img width="850" height="547" alt="dispercao2" src="https://github.com/user-attachments/assets/5ac69efa-d1f0-4364-8bec-dfa1031da816" />
+<img width="790" height="547" alt="dispercao1" src="https://github.com/user-attachments/assets/7ddde7cc-755e-44d9-9937-4d0b14ea584e" />
+<img width="790" height="547" alt="dispercao2" src="https://github.com/user-attachments/assets/5ac69efa-d1f0-4364-8bec-dfa1031da816" />
 
 ---
 
@@ -60,9 +60,9 @@
 - F1-score  
 - AUC-ROC  
 - Matriz de Confusão
-<img width="1920" height="826" alt="Colagem 3" src="https://github.com/user-attachments/assets/e57b48cb-a622-4492-b0ed-c6a9445dcca7" />
-<img width="1920" height="781" alt="Colagem 1" src="https://github.com/user-attachments/assets/21a40ff1-7867-41ab-b310-d6f0297245d4" />
-<img width="1920" height="829" alt="Colagem 2" src="https://github.com/user-attachments/assets/800c1555-1495-40d8-9956-e1f98dbda943" />
+<img width="790" height="590" alt="Colagem 3" src="https://github.com/user-attachments/assets/e57b48cb-a622-4492-b0ed-c6a9445dcca7" />
+<img width="790" height="590" alt="Colagem 1" src="https://github.com/user-attachments/assets/21a40ff1-7867-41ab-b310-d6f0297245d4" />
+<img width="790" height="590" alt="Colagem 2" src="https://github.com/user-attachments/assets/800c1555-1495-40d8-9956-e1f98dbda943" />
 
 **Resumo do desempenho dos modelos:**
 
@@ -87,13 +87,13 @@
 ---
 
 ## 💡 Estratégias de Retenção Propostas
-- Foco em clientes identificados como de alto risco pelo modelo.  
-- Ações específicas podem ser desenhadas considerando as **top variáveis que mais influenciam o churn**, como ajustes em serviços, comunicação ou ofertas personalizadas.  
-- Monitoramento contínuo do comportamento de clientes para validar e ajustar o modelo.
+- Reformulação dos contratos mensais: incentivar planos de longo prazo.
+- Melhoria do serviço de internet (fibra óptica): foco em qualidade e suporte.
+- Fidelização de clientes antigos: programas de benefício por tempo de casa.
+- Ofertas personalizadas para famílias: atrair perfis com maior permanência.
+- Onboarding estratégico nos primeiros meses: atuar no momento mais crítico de churn.
 
 ---
 
 ## 📦 Requisitos
 - Python 3.x  
-- Bibliotecas: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn  
-- Dados de clientes com histórico de uso de serviços e informações demográficas  
