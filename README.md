@@ -41,6 +41,8 @@
 - Foram avaliadas distribuições de variáveis, correlações entre features e relações com churn.  
 - Identificação de padrões que poderiam influenciar a evasão, como comportamento de compra, uso de serviços e variáveis demográficas.  
 - Visualizações foram usadas para destacar insights iniciais, como concentração de churn em determinados perfis.
+<img width="850" height="547" alt="dispercao1" src="https://github.com/user-attachments/assets/7ddde7cc-755e-44d9-9937-4d0b14ea584e" />
+<img width="850" height="547" alt="dispercao2" src="https://github.com/user-attachments/assets/5ac69efa-d1f0-4364-8bec-dfa1031da816" />
 
 ---
 
